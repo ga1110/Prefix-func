@@ -1,0 +1,9 @@
+﻿  Prefix-func.cpp
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(8,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(16,40): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(16,40): warning C4267:         with
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(16,40): warning C4267:         [
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(16,40): warning C4267:             _Ty=int
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(16,40): warning C4267:         ]
+F:\Study\GitHub\TEMP\Prefix-func\Prefix-func.cpp(25,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Prefix-func.vcxproj -> F:\Study\GitHub\TEMP\Prefix-func\x64\Debug\Prefix-func.exe
